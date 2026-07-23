@@ -1,0 +1,64 @@
+# Ayenda
+
+> Ayenda es una plataforma de tecnología hotelera en Colombia, México y Perú: combina un
+> sistema de gestión hotelera (PMS), un channel manager para distribuir el inventario y un
+> motor de reservas. Este sitio (ayenda.com) es su canal de reservas al consumidor, donde
+> los viajeros buscan, comparan y reservan hoteles económicos por ciudad, barrio o punto de
+> interés, con tarifas para viajeros y para empresas (corporativo). Ayenda empezó como una
+> cadena de hoteles y desde 2023 se enfoca en software, gestión y distribución.
+
+Notas para asistentes:
+
+- Los precios y la disponibilidad son dinámicos y dependen de las fechas de la búsqueda
+  (check-in/check-out) y del número de huéspedes; no son estables entre visitas.
+- El contenido principal está en español. El catálogo se organiza por país (`/co`, `/mx`,
+  `/pe`), ciudad, barrio y punto de interés (landmark).
+- Para reservar: abre la página de una ciudad o de un hotel, elige fechas
+  (check-in/check-out) y número de huéspedes, y completa el pago en el checkout. El paso a
+  paso detallado está en Preguntas frecuentes.
+
+## Principales
+
+- [Inicio](https://ayenda.com/): buscador de hoteles y destinos destacados.
+- [Hoteles en Colombia](https://ayenda.com/all-countries/co): índice de ciudades en Colombia.
+- [Hoteles en México](https://ayenda.com/all-countries/mx): índice de ciudades en México.
+- [Hoteles en Perú](https://ayenda.com/all-countries/pe): índice de ciudades en Perú.
+- [Ayenda Empresas](https://ayenda.com/empresas): reservas y tarifas para viajes corporativos.
+- [Aliados](https://ayenda.com/aliados): información para hoteleros que quieren afiliarse y usar la plataforma de gestión.
+
+## Destinos principales
+
+- [Hoteles en Bogotá](https://ayenda.com/co/hoteles/bogota)
+- [Hoteles en Medellín](https://ayenda.com/co/hoteles/medellin)
+- [Hoteles en Cali](https://ayenda.com/co/hoteles/cali)
+- [Hoteles en Cartagena](https://ayenda.com/co/hoteles/cartagena)
+- [Hoteles en Barranquilla](https://ayenda.com/co/hoteles/barranquilla)
+- [Hoteles en Ciudad de México](https://ayenda.com/mx/hoteles/ciudad-de-mexico)
+- [Hoteles en Guadalajara](https://ayenda.com/mx/hoteles/guadalajara)
+- [Hoteles en Monterrey](https://ayenda.com/mx/hoteles/monterrey)
+- [Hoteles en Lima](https://ayenda.com/pe/hoteles/lima)
+- [Hoteles en Arequipa](https://ayenda.com/pe/hoteles/arequipa)
+- [Hoteles en Cusco](https://ayenda.com/pe/hoteles/cusco)
+
+## Ayuda e información
+
+- [Preguntas frecuentes](https://ayenda.com/preguntas-frecuentes): dudas comunes sobre reservas.
+- [Contáctanos](https://ayenda.com/contactanos): canales de atención al cliente.
+- [PQRS](https://ayenda.com/pqrs): peticiones, quejas, reclamos y sugerencias.
+- [Sostenibilidad](https://ayenda.com/sostenibilidad): política de sostenibilidad.
+
+## Legal
+
+- [Términos y condiciones](https://ayenda.com/terminos-y-condiciones)
+- [Política de privacidad](https://ayenda.com/politica-de-privacidad)
+- [Avisos de privacidad](https://ayenda.com/avisos-de-privacidad)
+
+## Sitemaps
+
+- [Índice de sitemaps](https://ayenda.com/sitemap.xml)
+- [Páginas estáticas](https://ayenda.com/sitemap-static.xml)
+- [Ciudades](https://ayenda.com/sitemap-cities.xml)
+- [Hoteles](https://ayenda.com/sitemap-hotels.xml)
+- [Barrios](https://ayenda.com/sitemap-neighborhoods.xml)
+- [Puntos de interés](https://ayenda.com/sitemap-points.xml)
+- [Corporativo](https://ayenda.com/sitemap-corporate.xml)

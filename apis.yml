@@ -1,7 +1,12 @@
 aid: ayenda
 name: Ayenda
-description: Ayenda is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Ayenda is a hotel-technology platform operating across Colombia, Mexico, and Peru.
+  It combines a property management system (PMS), a channel manager for distributing hotel
+  inventory, and a booking engine; ayenda.com is its consumer reservations channel where
+  travelers search, compare, and book budget hotels, hostels, and aparthotels by city,
+  neighborhood, or landmark, with both traveler and corporate (Empresas) rates. Ayenda began
+  as a budget hotel chain and since 2023 has focused on software, management, and distribution
+  for independent hoteliers across Latin America. Backed by 500 Global.
 url: https://raw.githubusercontent.com/api-evangelist/ayenda/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +14,31 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
+image: https://ayenda-images.imgix.net/vghduwg1m1sob6npxpkhybkkarg6?ixlib=react-9.0.2&w=1000&h=800&auto=format&q=80&fit=clip
 tags:
 - Company
+- Hotels
+- Travel
+- Hospitality
+- Booking
+- Reservations
+- PMS
+- Channel Manager
+- Latin America
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,18 @@ maintainers:
 common:
 - type: Website
   url: https://ayenda.com
+- type: LLMsTxt
+  url: llms/ayenda-llms.txt
+- type: TermsOfService
+  url: https://ayenda.com/terminos-y-condiciones
+- type: PrivacyPolicy
+  url: https://ayenda.com/politica-de-privacidad
+- type: Support
+  url: https://ayenda.com/contactanos
+- type: DomainSecurity
+  url: security/ayenda-domain-security.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
